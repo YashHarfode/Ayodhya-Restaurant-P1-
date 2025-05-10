@@ -1,0 +1,117 @@
+* {
+            background-color: rgb(219, 158, 219);
+        }
+
+        .intro {
+            border: 2px solid purple;
+            box-shadow: inset 0px 0px 10px rgb(255, 101, 216);
+            text-transform: uppercase;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            padding: 10px;
+            margin: 20px;
+            font-size: larger;
+            color: rgb(197, 5, 53)
+            
+        }
+
+        .h1 {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+        }
+
+        .menu {
+            box-sizing: border-box;
+            width: 60%;
+            border: 3px solid rgb(0, 0, 0);
+            padding: 4px;
+            margin: 5px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            border-radius: 5px;
+            position: relative;
+            left: 15%;
+            right: 95%;
+            font-size: 17px;
+            text-align: left; 
+            font-weight: bold;
+        }
+
+        .img {
+            /* position: relative;
+            left: 28%;
+            right: 28%;
+            border: 1px solid black;
+            width: 280px;
+            padding: 10px; */
+
+            border: 2px solid black;
+            box-sizing: border-box;
+            width: 57.5%;
+            padding: 10px;
+            margin: 20px;
+            border-radius: 5px;
+            position: relative;
+            left: 18%;
+            right: 95%;
+
+        }
+
+        .our {
+            border: 0px;
+            box-shadow: none;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 26px;
+            padding: 28px;
+            color: rgb(151, 17, 46);
+        }
+
+        .contact{
+            border: 2px solid rgb(63, 118, 180);
+            box-sizing: border-box;
+            width: 70%;
+            padding: 10px;
+            margin: 20px;
+            box-shadow: 2px 3px 4px rgb(224, 124, 255);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            border-radius: 5px;
+            position: relative;
+            left: 13%;
+            right: 95%;
+            color: red;
+            font-size: medium;
+            font-weight: bold;
+            text-align: center;
+            font-size: 17px;
+        }
+
+        .price {
+            border: 2px solid rgb(63, 118, 180);
+            box-sizing: border-box;
+            width: 70%;
+            padding: 10px;
+            margin: 20px;
+            box-shadow: 2px 3px 4px rgb(224, 124, 255);
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            border-radius: 5px;
+            position: relative;
+            left: 13%;
+            right: 95%;
+            color: black;
+            font-size: medium;
+            font-weight: bold;
+            text-align: center;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        .footer{
+            text-align: center;
+        }
+
+        th{
+            color: black;
+            font-size: 19px;
+            font-weight: bold;
+        }
